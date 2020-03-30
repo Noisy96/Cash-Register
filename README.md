@@ -1,7 +1,9 @@
 ![](https://github.com/Noisy96/Cash-Register/blob/master/images/cover.jpg)
 
-# Cash-Register
-A challenge I particularly enjoyed taking
+# Cash-Register 
+A challenge I particularly enjoyed taking <br>
+link : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
+
 
 ## Challenge description
 Design a cash register drawer function checkCashRegister() that accepts purchase price as the first argument (price), payment as the second argument (cash), and cash-in-drawer (cid) as the third argument.
